@@ -11,7 +11,7 @@ const elementToggleFunc = function (elem) { elem.classList.toggle("active"); }
 
 
 
-// sidebar variables
+// sidebar variable
 const sidebar = document.querySelector("[data-sidebar]");
 const sidebarBtn = document.querySelector("[data-sidebar-btn]");
 
